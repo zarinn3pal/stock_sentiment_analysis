@@ -1,0 +1,8 @@
+numpy
+textblob
+matplotlib
+pandas
+scikit-learn
+jupyterlab
+python-dotenv
+tweepy
